@@ -33,15 +33,21 @@ A responsive React application that allows users to search GitHub profiles and v
 
 ### Home Page
 
-(Add screenshot here)
+<img width="1391" height="555" alt="image" src="https://github.com/user-attachments/assets/d24f6efa-299e-414d-8718-65c4edd6e2e8" />
+
 
 ### User Profile Section
 
-(Add screenshot here)
+<img width="1290" height="601" alt="image" src="https://github.com/user-attachments/assets/297df956-2894-49f0-9997-665e5ea3ec0e" /> 
+
+<img width="1323" height="548" alt="image" src="https://github.com/user-attachments/assets/a68bd7d9-766a-434c-9f46-fdc3b4af56f7" />
+
+
 
 ### Dark Mode
 
-(Add screenshot here)
+<img width="707" height="709" alt="image" src="https://github.com/user-attachments/assets/7cbf847b-7859-47af-9226-60bf8adbb91a" />
+
 
 ---
 
@@ -66,13 +72,13 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/github-user-finder.git
+git clone https://github.com/vanran920/github-user-finder.git
 ```
 
 ### 2️⃣ Move into project folder
 
 ```bash
-cd github-user-finder
+cd front-end
 ```
 
 ### 3️⃣ Install dependencies
@@ -119,7 +125,10 @@ https://api.github.com/users/{username}/repos
 * Add repository sorting
 * Add skeleton loading
 * Add contribution graph
-* Add profile sharing feature
+* Add profile sharing feature 
+
+## Live Link 
+https://git-hub-finder-app-mu.vercel.app/
 
 ---
 
